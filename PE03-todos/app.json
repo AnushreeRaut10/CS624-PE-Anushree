@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+    "name": "PE03 Todos",
+    "slug": "pe03-todos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}
